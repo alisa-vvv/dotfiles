@@ -13,7 +13,9 @@ return {
 							},
 						},
 					},
-					{ 'saghen/blink.cmp' },
+					{ 'saghen/blink.cmp',
+						version = '1.*',
+					},
 				},
 				opts = {
 					servers = {
